@@ -1,0 +1,19 @@
+.weatherData{
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    /* border:royalblue 1px solid; */
+}
+.weather{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.heading{
+    font-size:1.4em;
+    text-decoration: underline;
+}
